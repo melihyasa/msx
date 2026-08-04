@@ -1,6 +1,6 @@
 {    
     "name": "MMSX",
     "version": "1.0",
-    "parameter": "menu: https://melihyasa.github.io/msx/data/mainmenu.json",
+    "parameter": "menu: https://melihyasa.github.io/msx/data/menu.json",
     "welcome": "none"
 }
