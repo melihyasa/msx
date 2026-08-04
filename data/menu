@@ -1,5 +1,6 @@
 {
-  "pages": [
+  "type":"list"
+  "items": [
     {
       "headline": "Apps",
       "items": [
