@@ -1,0 +1,10 @@
+{
+    "headline": "Apps",
+    "menu": [
+        {
+            "icon": "tv",
+            "label": "Apps",
+            "data": "https://melihyasa.github.io/msx/data/menu.json"
+        }
+    ]
+}
