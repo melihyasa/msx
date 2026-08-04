@@ -1,6 +1,6 @@
 {    
     "name": "MMSX",
     "version": "1.0.0",
-    "parameter": "menu: https://melihyasa.github.io/melihyasa.github.io/data/content.json",
+    "parameter": "menu: https://github.com/melihyasa/melihyasa.github.io/blob/d4f9d846cffc961b7cffc6b447e4831a88094300/data/content",
     "welcome": "none"
 }
