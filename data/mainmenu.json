@@ -1,9 +1,9 @@
 {
-    "headline": "Apps",
+    "headline": "Uygulamalar",
     "menu": [
         {
             "icon": "tv",
-            "label": "Apps",
+            "label": "Uygulamalar",
             "data": "https://melihyasa.github.io/msx/data/menu.json"
         }
     ]
