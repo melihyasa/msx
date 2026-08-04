@@ -1,0 +1,29 @@
+{
+  "pages": [
+    {
+      "headline": "Apps",
+      "items": [
+        {
+          "title": "BeinConnect",
+          "image": "https://<kullanici-adin>.github.io/<depo-adin>/images/app1.png",
+          "action": "link",
+        },
+        {
+          "title": "TV+",
+          "image": "https://<kullanici-adin>.github.io/<depo-adin>/images/app2.png",
+          "action": "link",
+        },
+        {
+          "title": "Stremio",
+          "image": "https://<kullanici-adin>.github.io/<depo-adin>/images/app2.png",
+          "action": "link",
+        },
+        {
+          "title": "Icva IPTV",
+          "image": "https://<kullanici-adin>.github.io/<depo-adin>/images/app2.png",
+          "action": "link",
+        }
+      ]
+    }
+  ]
+}
