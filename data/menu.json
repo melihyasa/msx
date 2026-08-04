@@ -1,0 +1,18 @@
+{
+    "type": "pages",
+    "headline": "Apps",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,3,3",
+        "color": "black",
+        "imageFiller": "cover"
+    },
+    "items": [
+        {
+            "title": "BeinConnect",
+            "playerLabel": "BeinConnect",
+            "image": "melihyasa.github.io/msx/img/beinconnect.png",
+            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=61CFhMvAbFU"
+        }
+    ]
+}
