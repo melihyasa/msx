@@ -5,23 +5,23 @@
       "items": [
         {
           "title": "BeinConnect",
-          "image": "https://<kullanici-adin>.github.io/<depo-adin>/images/app1.png",
-          "action": "link",
+          "image": "https://melihyasa.github.io/img/beinconnect.png",
+          "action": "link:https://smrttv.beinconnect.com.tr",
         },
         {
           "title": "TV+",
-          "image": "https://<kullanici-adin>.github.io/<depo-adin>/images/app2.png",
-          "action": "link",
+          "image": "https://melihyasa.github.io/img/tv+.png",
+          "action": "link:https://smarttv.tvplus.com.tr",
         },
         {
           "title": "Stremio",
-          "image": "https://<kullanici-adin>.github.io/<depo-adin>/images/app2.png",
-          "action": "link",
+          "image": "https://melihyasa.github.io/img/stremio.png",
+          "action": "link:https://tv.strem.io",
         },
         {
           "title": "Icva IPTV",
-          "image": "https://<kullanici-adin>.github.io/<depo-adin>/images/app2.png",
-          "action": "link",
+          "image": "https://melihyasa.github.io/img/icva.png",
+          "action": "link:https://icva.mx/",
         }
       ]
     }
