@@ -21,16 +21,16 @@
             "action": "link:https://smarttv.tvplus.com.tr"
         },
         {
-            "title": "MRSS Launcher",
-            "playerLabel": "MRSS Launcher",
-            "image": "https://img.youtube.com/vi/tOAAg3h1_U8/hqdefault.jpg",
-            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=tOAAg3h1_U8"
+            "title": "Stremio",
+            "playerLabel": "Stremio",
+            "image": "https://melihyasa.github.io/msx/img/stremio.png",
+            "action": "link:https://tv.strem.io"
         },
         {
-            "title": "TV Benchmark Tests",
-            "playerLabel": "TV Benchmark Tests",
-            "image": "https://img.youtube.com/vi/9A_I_ZqbWkM/hqdefault.jpg",
-            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=9A_I_ZqbWkM"
+            "title": "ICVA IPTV",
+            "playerLabel": "ICVA IPTV",
+            "image": "https://melihyasa.github.io/msx/img/icva.png",
+            "action": "link:http://icva.mx"
         }
     ]
 }
