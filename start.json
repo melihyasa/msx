@@ -1,0 +1,27 @@
+{
+  "name": "MSX Melih",
+  "version": "1.0",
+  "headline": "Apps",
+  "menu": [
+    {
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/4/4b/BeIN_Connect_logo.png",
+      "label": "beIN Connect",
+      "action": "link:https://smrttv.beinconnect.com.tr"
+    },
+    {
+      "icon": "https://play-lh.googleusercontent.com/uGzZ0T9p1t1vU0y5dO0_9Q6v6S0wO9t5_v3r7z8X3w6S0wO9t5_v3r7z8X3w6S0=w240-h480-rw",
+      "label": "TV+",
+      "action": "link:https://smarttv.tvplus.com.tr"
+    },
+    {
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Stremio_logo_2024.png",
+      "label": "Stremio",
+      "action": "link:https://tv.strem.io"
+    },
+    {
+      "icon": "https://icva.mx/favicon.ico",
+      "label": "IPTV (ICVA)",
+      "action": "content:http://icva.mx"
+    }
+  ]
+}
